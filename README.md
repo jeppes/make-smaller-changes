@@ -6,7 +6,7 @@ I follow the rule of thumb that PRs with the word "and" in the description shoul
 
 It's important to note that the parts you break your PR into should be dependent on each other. It should be possible to merge them in any order, and you should not expect all parts to get merged. Failing to adhere to this will not actually solve the problems caused by big changes - it will just spread them out.
 
-When submitting any change, put yourself in the shoes of the reviewer. Which of the following would you rather be faced with when a colleague sends you a PR to look at?
+Put yourself in the shoes of the reviewer when submitting a PR. Which of the following would you rather be faced with when a colleague sends you a PR to look at?
 
 <img src="/small-pr.png" alt="PR Diff with 17 lines added, 15 lines removed" width="200px"/>
 <img src="/large-pr.png" alt="PR Diff with 536 lines added, 80 lines removed" width="200px"/>
