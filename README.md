@@ -8,9 +8,8 @@ It's important to note that the parts you break your PR into should be dependent
 
 Put yourself in the shoes of the reviewer when submitting a PR. Which of the following would you rather be faced with when a colleague sends you a PR to look at?
 
-<img src="/small-pr.png" alt="PR Diff with 17 lines added, 15 lines removed" width="200px"/>
-<img src="/large-pr.png" alt="PR Diff with 536 lines added, 80 lines removed" width="200px"/>
+![PR Diff with 17 lines added, 15 lines removed](/small-pr.png)
+![PR Diff with 536 lines added, 80 lines removed](/large-pr.png)
 
 
 Make a habit of making smaller changes.
-
