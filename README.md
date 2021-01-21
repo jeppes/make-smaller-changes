@@ -8,8 +8,8 @@ It's important to note that the parts you break your PR into should be dependent
 
 Put yourself in the shoes of the reviewer when submitting a PR. Which of the following would you rather be faced with when a colleague sends you a PR to look at?
 
-![PR Diff with 17 lines added, 15 lines removed](/small-pr.png)
-![PR Diff with 536 lines added, 80 lines removed](/large-pr.png)
+![PR Diff with 17 lines added, 15 lines removed](https://github.com/jeppes/make-smaller-changes/blob/main/small-pr.png?raw=true)
+![PR Diff with 536 lines added, 80 lines removed](https://github.com/jeppes/make-smaller-changes/blob/main/large-pr.png?raw=true)
 
 
 Make a habit of making smaller changes.
