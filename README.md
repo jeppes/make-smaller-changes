@@ -1,6 +1,6 @@
 # Make Smaller Changes
 
-Staying productive in an evergrowing codbase can be an uphill battle. Sometimes merging seemingly simple things can take days or even weeks. By the time someone gets around to reviewing your diff its often outdated and riddled with merge conflicts. The one strategy that has helped me deal with this more than any other is to **make smaller changes**.
+Staying productive in an evergrowing codebase can be an uphill battle. Sometimes merging seemingly simple things can take days or even weeks. By the time someone gets around to reviewing your diff its often outdated and riddled with merge conflicts. The one strategy that has helped me deal with this more than any other is to **make smaller changes**.
 
 I follow the rule of thumb that PRs with the word "and" in the description should probably be broken up - even if they are small to begin with. Not only do these PRs get reviewed and merged significantly faster, the quality of reviews also tends to be better. The process of dividing up a PR into independently mergeable parts also encourages simpler, more decoupled designs.
 
